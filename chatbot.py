@@ -55,7 +55,7 @@ def main():
         description="A simple chatbot using a Fitness Agent and Gradio with conversation history",
     )
 
-    chat_interface.launch()
+     chat_interface(server_name="0.0.0.0").launch()
 
 if __name__ == "__main__":
     main()
