@@ -1,4 +1,4 @@
-demo link [http://43.204.117.99:7860/]
+demo link http://43.204.117.99:7860/
 
 
 ## Features
