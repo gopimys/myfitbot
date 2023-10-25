@@ -1,3 +1,5 @@
+demo link [http://43.204.117.99:7860/]
+
 
 ## Features
 1. **Nutritional Information Retrieval:** Fetches accurate nutritional data of any given food item by leveraging the Nutrition endpoint of API Ninjas.
